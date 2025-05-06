@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eaIhoOQdaU8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\partl\\source\\repos\\BouncingWindow\\BouncingWindow\\BouncingWindow\\BouncingWindow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\partl\\.nuget\\packages\\htmlagilitypack\\1.12.1\\htmlagilitypack.1.12.1.nupkg.sha512"
+  ],
+  "logs": []
+}
